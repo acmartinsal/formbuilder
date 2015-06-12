@@ -1,6 +1,7 @@
 {
     "name": "smartinsalmeida/formbuilder",
-    "description": "ormBuilder for MicroMvc with Bootstrap from REST Symfony2 API",
+    "description": "FormBuilder for MicroMvc with Bootstrap from REST Symfony2 API",
+    "licence": "MIT",
     "authors": [
         {
             "name": "Sylvain MARTINS-ALMEIDA",
@@ -13,7 +14,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Smartinsalmeida": "src/"
+            "Smartinsalmeida\\FormBuilder\\": "src/"
         }
     }
 }
