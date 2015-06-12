@@ -1,6 +1,6 @@
 <?php
 
-namespace Smartinsalmeida;
+namespace SMartinsAlmeida;
 
 /**
  * Description of Form
